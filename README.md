@@ -2,8 +2,8 @@
 My notes, links, tools and samples for acorn electron/BBC programming.
 
 ## My Assembler experiments / 101
-[Simple loop](ASM Files/SimpleLoop/SimpleLoop.asm)  
-[16 Bit loop)(ASM Fikes/16BitLoop/16BitLoop.asm) - buggy but shows how quick asm can be.
+[Simple loop](https://github.com/GilesDMiddleton/AcornElectron/blob/main/ASM%20Files/SimpleLoop/SimpleLoop.asm)  - shows basic double loop using 255 max  
+[16 Bit loop](https://github.com/GilesDMiddleton/AcornElectron/blob/main/ASM%20Files/16BitLoop/16BitLoop.asm) - buggy but shows how quick asm can be.
 
 ## Emulators / Debuggers / Editors / Compilers
 [Owlet - BBC emulator in the browser](https://bbcmic.ro/)
