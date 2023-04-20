@@ -53,6 +53,10 @@ https://www.nesdev.org/wiki/6502_assembly_optimisations)
 
 [Saving/loading screen memory to/from disk (quick pictures)](http://www.acornelectron.co.uk/eug/38/a-pro3.html)
 
+[Resident Integer variables in BASIC](https://www.youtube.com/watch?v=sajjQjnoMvc)
+
+[Difference between Carry and overflow](https://stackoverflow.com/questions/69124873/understanding-the-difference-between-overflow-and-carry-flags)
+
 ## Books/Reference manuals
 
 [Advanced User Guide For the Acorn Electron](http://stardot.org.uk/mirrors/www.bbcdocs.com/filebase/essentials/EAUG-Issue2.doc)
