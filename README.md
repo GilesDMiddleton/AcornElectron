@@ -49,16 +49,23 @@ https://www.nesdev.org/wiki/6502_assembly_optimisations)
 
 [Compare,branch,move,swap quick guide](http://www.6502.org/tutorials/compare_instructions.html)
 
-[Acorn Electron World Assembly Language Chapter](http://www.acornelectron.co.uk/ugs/electron/acorn_computers/ug-english/chapter029_eng.html)
+[Acorn Electron World Assembly Language Chapter](http://www.acornelectron.co.uk/ugs/electron/acorn_computers/ug-english/chapter029_eng.html) - includes details on calling asm and the stack layout
 
 [Saving/loading screen memory to/from disk (quick pictures)](http://www.acornelectron.co.uk/eug/38/a-pro3.html)
 
 [Resident Integer variables in BASIC](https://www.youtube.com/watch?v=sajjQjnoMvc)
 
-[Difference between Carry and overflow](https://stackoverflow.com/questions/69124873/understanding-the-difference-between-overflow-and-carry-flags)
+[Difference between Carry and overflow](https://stackoverflow.com/questions/69124873/understanding-the-difference-between-overflow-and-carry-flags)  
+
+[BBC Memory map](https://www.chibiakumas.com/6502/bbc.php)
+
+[6502 tutorials](https://www.assemblytutorial.com/6502/)
 
 ## Books/Reference manuals
 
 [Advanced User Guide For the Acorn Electron](http://stardot.org.uk/mirrors/www.bbcdocs.com/filebase/essentials/EAUG-Issue2.doc)
 
 [How to write arcade games -Jonathan Griffiths](https://acorn.huininga.nl/pub/docs/manuals/Acornsoft/Creative%20Assembler%20-%20How%20To%20Write%20Arcade%20Games.pdf) - Great intro stuff, gets juicer about page 68+ describes vsync stuff and has code for a shape designer?
+
+[The advanced BASIC ROM GUIDE](http://8bs.com/othrdnld/manuals/hnooijen/The-Advanced-BASIC-ROM-User-Guide.pdf) - interesting examples. Big.
+
