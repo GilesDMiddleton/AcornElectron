@@ -61,6 +61,8 @@ https://www.nesdev.org/wiki/6502_assembly_optimisations)
 
 [6502 tutorials](https://www.assemblytutorial.com/6502/)
 
+[6502 reference](https://www.masswerk.at/6502/6502_instruction_set.html#ROL) Really good - includes pictures and addressing modes.
+
 ## Books/Reference manuals
 
 [Advanced User Guide For the Acorn Electron](http://stardot.org.uk/mirrors/www.bbcdocs.com/filebase/essentials/EAUG-Issue2.doc)

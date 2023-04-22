@@ -1,4 +1,6 @@
-REM SIMPLE LOOPING
+REM 6502 BBC/Acorn Electron Basic and assembly language
+REM SIMPLE LOOPING 0 to 255 (or more accurately 255-0)
+
 AUTO
 MODE 5
 REM write character to screen using vdu (oswrch)
