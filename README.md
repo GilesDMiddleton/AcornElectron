@@ -65,7 +65,7 @@ https://www.nesdev.org/wiki/6502_assembly_optimisations)
 
 ## Books/Reference manuals
 
-[Advanced User Guide For the Acorn Electron](http://stardot.org.uk/mirrors/www.bbcdocs.com/filebase/essentials/EAUG-Issue2.doc)
+[Advanced User Guide For the Acorn Electron v3](https://stardot.org.uk/forums/download/file.php?id=79236)
 
 [How to write arcade games -Jonathan Griffiths](https://acorn.huininga.nl/pub/docs/manuals/Acornsoft/Creative%20Assembler%20-%20How%20To%20Write%20Arcade%20Games.pdf) - Great intro stuff, gets juicer about page 68+ describes vsync stuff and has code for a shape designer?
 
