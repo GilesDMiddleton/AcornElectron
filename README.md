@@ -3,7 +3,7 @@ My notes, links, tools and samples for acorn electron/BBC programming.
 
 ## My Assembler experiments / 101
 [Simple loop](https://github.com/GilesDMiddleton/AcornElectron/blob/main/ASM%20Files/SimpleLoop/SimpleLoop.asm)  - shows basic double loop using 255 max  
-[16 Bit loop](https://github.com/GilesDMiddleton/AcornElectron/blob/main/ASM%20Files/16BitLoop/16BitLoop.asm) - buggy but shows how quick asm can be.
+[16 Bit loop](https://github.com/GilesDMiddleton/AcornElectron/blob/main/ASM%20Files/16BitLoop/16BitLoop.asm) - a number of demos of coding loops, showing my early mistakes, but evolving faster and a screen filling demo.
 
 # My Quick Reference Articles
 [Zero Page Addresses](<https://github.com/GilesDMiddleton/AcornElectron/blob/main/Zero Page Addresses.md>)  
