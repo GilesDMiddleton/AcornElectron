@@ -1,5 +1,5 @@
 # Zero Page Addresses
-The zero page on the 6502 is very valuable, and in contention from the OS and other programs. Not only is zero page faster to access (not as fast as registers), but important indirect-indexd addressing modes can only be used with zero page addresss, sadly. Meaning far many more steps than you'd like, but this was the early 1980's.
+The zero page on the 6502 is very valuable, and in contention from the OS and other programs. Not only is zero page faster to access (not as fast as registers), but important indirect-indexed addressing modes can only be used with zero page addresss, sadly. Meaning far many more steps than you'd like, but this was the early 1980's.
 
 e.g. if  
 &71 contained &58  
