@@ -34,6 +34,14 @@ Notable features
 * Removed unnecessary re-loading and restoring of memory from TARGET
 * TARGET is not updated
 
+# 16BitLoopDemo
+Using V3 this demo writes to the screen memory for N times. Comments in the code explain it all, but notable points
+* Showing how to push an address into X and Y registers for use in ASM
+* Loading an absolute byte value from a register integer varaible (F%)
+* Using zero-page memory addreses, and act like a stack
+* Using those zero-page indirect-indexed addressing to populate memory.
+* Getting screen memory as an address into the X and Y registers.
+
 # 16BitLoop future ideas
 * Allow the loop to start from any 16bit starting point
 * Error checking i.e.
