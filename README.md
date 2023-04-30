@@ -6,8 +6,8 @@ My notes, links, tools and samples for acorn electron/BBC programming.
 [16 Bit loop](https://github.com/GilesDMiddleton/AcornElectron/blob/main/ASM%20Files/16BitLoop/16BitLoop.asm) - a number of demos of coding loops, showing my early mistakes, but evolving faster and a screen filling demo.
 
 # My Quick Reference Articles
-[Zero Page Addresses](<https://github.com/GilesDMiddleton/AcornElectron/blob/main/Zero Page Addresses.md>)  
-[Screen Modes](<https://github.com/GilesDMiddleton/AcornElectron/blob/main/ScreenModes.md>)
+[Zero Page Addresses](<https://github.com/GilesDMiddleton/AcornElectron/blob/main/QuickReference/Zero Page Addresses.md>)  
+[Screen Modes](<https://github.com/GilesDMiddleton/AcornElectron/blob/main/QuickReference/ScreenModes.md>)
 
 ## Emulators / Debuggers / Editors / Compilers
 [Owlet - BBC emulator in the browser](https://bbcmic.ro/)
